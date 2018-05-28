@@ -7,4 +7,4 @@ mountain;
 monoments;
 tajmahal;
 india gate
-getway of india
+
